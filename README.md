@@ -1,1 +1,1 @@
-### Professional penguin employed at Southpole Inc. in Antarctica.
+### Professional penguin employed at Southpole Inc., Antarctica.
