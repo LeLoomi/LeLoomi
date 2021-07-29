@@ -1,1 +1,1 @@
-### Dipl. penguin employed at Southpole Inc., Antarctica.
+### Most superior penguin of then all, employed at Southpole Inc., Antarctica.
