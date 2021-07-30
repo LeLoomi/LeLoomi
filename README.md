@@ -1,1 +1,1 @@
-### Most superior penguin of them all, employed at Southpole Inc., Antarctica.
+### The coolest penguin of them all, employed at Southpole Inc., Antarctica.
