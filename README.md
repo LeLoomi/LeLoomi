@@ -1,4 +1,4 @@
-### Professional penguin employed at Southpole Inc., Antarctica. <img src="https://c.tenor.com/HBjw_MS0OLIAAAAC/livia-veronezi-penguin.gif" width="40" height="40" />
+### Professional penguin employed at Southpole Inc., Antarctica. <img src="https://c.tenor.com/PW4f9zETIaUAAAAM/dance.gif" width="40" height="40" />
 
 On the side, CompSci and EE student @[TUD](https://tu-dresden.de/)
 
