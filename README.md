@@ -1,5 +1,5 @@
 ### Professional penguin employed at Southpole Inc., Antarctica.
 
-Also part time media x CompSci student @[TUD](https://tu-dresden.de/)
+Also part time Media × CompSci student @[TUD](https://tu-dresden.de/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeLoomi&layout=compact&theme=github_dark&bg_color=1f2229)](https://github.com/anuraghazra/github-readme-stats)
