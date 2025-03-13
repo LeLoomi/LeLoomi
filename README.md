@@ -8,14 +8,14 @@
 <!-- [![Top Langs](https://leloomighstats.vercel.app/api/top-langs/?username=LeLoomi&exclude_repo=github-readme-stats&layout=donut&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats) -->
 
 Doing right now
-- Unity (XR/AR) for university
-- putting together [ArucoRoi](https://github.com/LeLoomi/ArucoRoi)
-- Maintaining and expanding [VanillaRice](https://github.com/LeLoomi/VanillaRice)
+- putting together [ArucoRoi](https://github.com/LeLoomi/ArucoRoi) and [HybParc_Aruco](https://github.com/LeLoomi/Hybparc_aruco)
 
 Wanting to do but no time:
-- LL embedded stuff on the [Giga R1](https://github.com/LeLoomi/ArduinoGigaR1Template) and similar boards
+- Maintaining and expanding [VanillaRice](https://github.com/LeLoomi/VanillaRice)
+- LL embedded stuff on the [Giga R1](https://github.com/LeLoomi/ArduinoGigaR1Template) and similar
 
 Did in the past
+- Unity x Hololens 2
 - Java x Springboot Webdev
 - Unity for mobile
 - SwiftUI stuff (<i>[Swiftgram](https://github.com/LeLoomi/Swiftgram)</i>)
