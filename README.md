@@ -8,7 +8,8 @@
 <!-- [![Top Langs](https://leloomighstats.vercel.app/api/top-langs/?username=LeLoomi&exclude_repo=github-readme-stats&layout=donut&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats) -->
 
 Doing right now
-- putting together [ArucoRoi](https://github.com/LeLoomi/ArucoRoi) and [HybParc_Aruco](https://github.com/LeLoomi/Hybparc_aruco)
+- putting together an [automated ECG-placement training setup](https://github.com/LeLoomi/Hybparc_aruco)
+- putting together an [automated medical sewing training setup](https://github.com/LeLoomi/Hybparc_sewing)
 
 Wanting to do but no time:
 - Maintaining and expanding [VanillaRice](https://github.com/LeLoomi/VanillaRice)
@@ -18,6 +19,6 @@ Did in the past
 - Unity x Hololens 2
 - Java x Springboot Webdev
 - Unity for mobile
-- SwiftUI stuff (<i>[Swiftgram](https://github.com/LeLoomi/Swiftgram)</i>)
+- SwiftUI sketching stuff (<i>[Swiftgram](https://github.com/LeLoomi/Swiftgram)</i>)
 
 Certified godot hater.
