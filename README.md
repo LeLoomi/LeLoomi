@@ -8,7 +8,7 @@
 <!-- [![Top Langs](https://leloomighstats.vercel.app/api/top-langs/?username=LeLoomi&exclude_repo=github-readme-stats&layout=donut&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats) -->
 
 Doing right now
-- Putting together an [automated medical sewing training setup](https://github.com/LeLoomi/Hybparc_sewing)
+- Putting together (mostly frontend of) an [automated medical sewing training setup](https://github.com/LeLoomi/Hybparc_sewing)
 
 Wanting to do but no time:
 - Maintaining and expanding [VanillaRice](https://github.com/LeLoomi/VanillaRice)
