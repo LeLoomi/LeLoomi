@@ -9,12 +9,13 @@
 
 Doing right now
 - Putting together (mostly frontend of) an [automated medical sewing training setup](https://github.com/LeLoomi/Hybparc_sewing)
+- Maintaining and expanding [VanillaRice](https://github.com/LeLoomi/VanillaRice)
 
 Wanting to do but no time:
-- Maintaining and expanding [VanillaRice](https://github.com/LeLoomi/VanillaRice)
 - LL embedded stuff
 
 Did in the past
+- Unity x AR
 - Developed an [automated ECG-placement training setup](https://github.com/LeLoomi/Hybparc_aruco)
 - Unity x Hololens 2
 - Java x Springboot Webdev
