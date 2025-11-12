@@ -8,7 +8,8 @@
 <!-- [![Top Langs](https://leloomighstats.vercel.app/api/top-langs/?username=LeLoomi&exclude_repo=github-readme-stats&layout=donut&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats) -->
 
 Doing right now
-- Putting together (mostly frontend of) an [automated medical sewing training setup](https://github.com/LeLoomi/Hybparc_sewing)
+- Putting together an [automated medical sewing training setup](https://github.com/LeLoomi/Hybparc_sewing) <sup>excluding the AI evaluation stuff of it</sup>
+- Putting together an [automated ECG-placement training setup](https://github.com/LeLoomi/Hybparc_aruco)
 - Maintaining and expanding [VanillaRice](https://github.com/LeLoomi/VanillaRice)
 
 Wanting to do but no time:
@@ -16,7 +17,6 @@ Wanting to do but no time:
 
 Did in the past
 - Unity x AR
-- Developed an [automated ECG-placement training setup](https://github.com/LeLoomi/Hybparc_aruco)
 - Unity x Hololens 2
 - Java x Springboot Webdev
 - Unity for mobile
